@@ -1,6 +1,10 @@
 # 💫 About Me:
-Currently learning Velocity and Paper API in Kotlin.<br>Making my own small Minecraft-Network.<br>Also a few other side projects in React Native
+I make small Apps with React Native for Stuff that i like or need.
+While most of my work is done in private repos, you may see some of my work here as i want to make more repos public in the future
 
+I Also like to play Minecraft, thats why i also make some small datapacks.
+
+Currently learning Velocity and Paper API in Kotlin for a new project.
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@TheFoxCraft_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/thefoxcraft_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TheFoxCraft128) 
